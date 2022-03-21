@@ -1,5 +1,5 @@
 # BattleShip
-BattleShip game using C# and WPF. This version is a simulation between two computer players.
+BattleShip game using C# and WPF. This version is a simulation between two computer players. Code documentation in the wiki.
 
 The game is played on two grids, one for each player. The grids are square 10×10. 
 
